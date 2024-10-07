@@ -1,2 +1,2 @@
 # FavoriteRecipes2
-# This repository contain all my favorite recipes.
+# This repository contains all my favorite recipes.
